@@ -87,7 +87,7 @@ endmodule
 ![image](https://github.com/divyakumars/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393621/7cf303a6-3245-4740-abae-5d410252441f)
 
 
-## LOGIC SYMBOL&TRUTH TABLE:
+## TRUTH TABLE:
 ![image](https://github.com/divyakumars/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/119393621/ee95f53f-6836-43fc-9eb8-18e71776ab06)
 
 ## OUTPUT VERIFIED:
